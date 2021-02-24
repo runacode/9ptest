@@ -1,3 +1,8 @@
+<?php $company = "Mike's Landscapeee";
+$phone = "1(800) 232-2323";
+	$address1 = "100 give a fucks st";
+	$address2 = "i don' ca, 90210";
+?>
 <!DOCTYPE html>
 <html style="font-size: 16px;">
   <head>
